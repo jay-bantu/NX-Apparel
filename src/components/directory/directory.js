@@ -56,6 +56,7 @@ class Directory extends Component{
                     <MenuItem key={id} {...otherSectionProps} />
                     ))
                 }
+                
             </div>
 
         )
